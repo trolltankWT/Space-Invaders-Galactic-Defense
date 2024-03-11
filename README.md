@@ -1,5 +1,3 @@
-Space Invaders: Galactic Defense introduces a thrilling twist on the classic Space Invaders game, where players take on the role of a space defender tasked with protecting their home planet from an invading alien force. The game features intense action-packed gameplay, combining traditional space shooter elements with strategic defense mechanics. Players control a powerful spaceship equipped with advanced weapons, engaging in epic battles against waves of alien invaders. They must navigate through a hazardous space environment, dodging enemy attacks while unleashing devastating firepower to repel the alien onslaught.
-
 This project is built based on the Canvas component in Java. It incorporates mechanics such as bullet and object collision, animated health and ammo bars, rotating elements, and moveable character ships and aliens. All objects present on the screen were drawn using coordinates that represent points in the game window and refreshed every 10th of a second.
 
 Developed as a group project for the CMSC-132 Object-Oriented Programming (OOP) II Class.
